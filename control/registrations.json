@@ -1,12 +1,13 @@
 {
   "registrations": [
     {
-      "id": 1750518224917,
-      "studentName": "عمر الدليل",
-      "paymentReceiptUrl": "https://raw.githubusercontent.com/workcompany177/trash/main/control/receipts/receipt_1750518224917.jpg",
-      "paymentReceiptFileName": "receipt_1750518224917.jpg",
-      "submissionDate": "2025-06-21T15:03:45.995Z",
-      "status": "pending"
+      "id": 1750518043860,
+      "studentName": "عمر احمد الدليل",
+      "paymentReceiptUrl": "https://raw.githubusercontent.com/workcompany177/trash/main/control/receipts/receipt_1750518043860.jpg",
+      "paymentReceiptFileName": "receipt_1750518043860.jpg",
+      "submissionDate": "2025-06-21T15:00:45.441Z",
+      "status": "rejected",
+      "rejectionDate": "2025-06-21T15:06:29.650Z"
     }
   ],
   "approvedStudents": []
