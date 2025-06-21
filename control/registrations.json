@@ -6,7 +6,8 @@
       "paymentReceiptUrl": "https://raw.githubusercontent.com/workcompany177/trash/main/control/receipts/receipt_1750518043860.jpg",
       "paymentReceiptFileName": "receipt_1750518043860.jpg",
       "submissionDate": "2025-06-21T15:00:45.441Z",
-      "status": "pending"
+      "status": "rejected",
+      "rejectionDate": "2025-06-21T15:03:01.458Z"
     }
   ],
   "approvedStudents": []
